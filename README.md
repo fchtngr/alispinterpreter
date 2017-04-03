@@ -1,5 +1,4 @@
-A minimal Lisp Interpreter in C#
-------------------------------------------
+# A minimal Lisp Interpreter in C#
 
 A minimal lisp interpreter written in C# for a university course I did a few years ago.
 
@@ -12,7 +11,7 @@ Supported Operators:
 
 [For more info look here](http://dotnet.jku.at/applications/course11/Feichtinger/)
 
-##Sample I/O
+## Sample I/O
 
 	ttl>(define x 2)
 	2
@@ -34,7 +33,7 @@ Supported Operators:
 	3628800
 	ttl>
 
-##Screenshots of the GUI
+## Screenshots of the GUI
 
 ![GUI1](/img/screen1.PNG)
 
