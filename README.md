@@ -1,6 +1,6 @@
 # A minimal Lisp Interpreter in C#
 
-A minimal lisp interpreter written in C# for a university course I did a few years ago.
+A minimal lisp interpreter written in C#.
 
 Supported Operators:
 
